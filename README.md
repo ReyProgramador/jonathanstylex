@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola 👋
+
+ 📫 Contactame si necesitas ayuda en tu proyecto web por discord o instagram
 
 <!--
 **jonathanstylex/jonathanstylex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
