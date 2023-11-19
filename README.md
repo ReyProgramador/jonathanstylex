@@ -1,6 +1,6 @@
 ### Hola 👋
 
- 📫 Contactame si necesitas ayuda en tu proyecto web por discord o linkedin
+ 📫 Desarrollo Web con PHP, Javascript, SQL y Frameworks
 
 <!--
 **jonathanstylex/jonathanstylex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
